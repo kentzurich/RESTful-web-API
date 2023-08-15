@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\RESTful-web-API\\MagicVilla Part 2\\MagicVilla_VillaAPI\\wwwroot\\ProductImage\\5.png",
+      "PackagePath": "staticwebassets\\ProductImage\\5.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MagicVilla_VillaAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MagicVilla_VillaAPI.props",
+      "PackagePath": "build\\MagicVilla_VillaAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MagicVilla_VillaAPI.props",
+      "PackagePath": "buildMultiTargeting\\MagicVilla_VillaAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MagicVilla_VillaAPI.props",
+      "PackagePath": "buildTransitive\\MagicVilla_VillaAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

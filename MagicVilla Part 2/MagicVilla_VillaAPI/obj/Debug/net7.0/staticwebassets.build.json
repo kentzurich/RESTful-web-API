@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "weKiq+INyjHIUB+1ogH+0N8SaahUvQynkfMlajx3r0c=",
+  "Source": "MagicVilla_VillaAPI",
+  "BasePath": "_content/MagicVilla_VillaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MagicVilla_VillaAPI\\wwwroot",
+      "Source": "MagicVilla_VillaAPI",
+      "ContentRoot": "C:\\Users\\kentz\\Documents\\GitHub\\RESTful-web-API\\MagicVilla Part 2\\MagicVilla_VillaAPI\\wwwroot\\",
+      "BasePath": "_content/MagicVilla_VillaAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kentz\\Documents\\GitHub\\RESTful-web-API\\MagicVilla Part 2\\MagicVilla_VillaAPI\\wwwroot\\ProductImage\\5.png",
+      "SourceId": "MagicVilla_VillaAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kentz\\Documents\\GitHub\\RESTful-web-API\\MagicVilla Part 2\\MagicVilla_VillaAPI\\wwwroot\\",
+      "BasePath": "_content/MagicVilla_VillaAPI",
+      "RelativePath": "ProductImage/5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImage\\5.png"
+    }
+  ]
+}

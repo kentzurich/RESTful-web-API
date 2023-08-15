@@ -1,0 +1,35 @@
+﻿@model RegistrationRequestDTO
+
+<form method="post">
+    <div class="container border p-4">
+        <div class="row text-center">
+            <h1>Register</h1>
+        </div>
+        <div class="row text-center">
+            @*<div asp-validation-summary="All" class="text-danger"></div>*@
+        </div>
+
+        <div class="row">
+            <div class="col-6 offset-3 pb-2">
+                <input asp-for="Name" type="text" class="form-control" placeholder="Enter name" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+             <div class="col-6 offset-3 pb-2">
+                <input asp-for="UserName" type="text" class="form-control" placeholder="Enter username" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="col-6 offset-3 pb-2">
+                <input asp-for="Password" type="password" class="form-control"  placeholder="Enter password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="col-6 offset-3 pb-2">
+                <button type="submit" value="Submit" class="form-control btn btn-success">Register</button>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+}
